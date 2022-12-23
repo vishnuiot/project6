@@ -6,3 +6,4 @@ git commit -m "modification"
 git checkout main
 #git pull origin main
 git pull origin main --allow-unrelated-histories
+git commit -m "modification"
