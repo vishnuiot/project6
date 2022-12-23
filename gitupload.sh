@@ -9,3 +9,4 @@ git pull origin main --allow-unrelated-histories
 git commit -m "modification"
 
 git pull origin main
+git push origin main
