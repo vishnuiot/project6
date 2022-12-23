@@ -5,4 +5,4 @@ git commit -m "modification"
 #git branch -M main
 git checkout main
 #git pull origin main
-#git pull origin main --allow-unrelated-histories
+git pull origin main --allow-unrelated-histories
