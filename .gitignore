@@ -1,5 +1,5 @@
 
-*.free_rtos
+/free_rtos
 # Prerequisites
 *.d
 
